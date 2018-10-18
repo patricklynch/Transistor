@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'Transistor_Example' do
+  pod 'Transistor', :path => '../'
+
+  target 'Transistor_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
