@@ -1,0 +1,6 @@
+framework module Transistor {
+  umbrella header "Transistor-umbrella.h"
+
+  export *
+  module * { export * }
+}

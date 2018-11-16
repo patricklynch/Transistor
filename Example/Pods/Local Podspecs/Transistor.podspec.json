@@ -1,0 +1,22 @@
+{
+  "name": "Transistor",
+  "version": "0.1.0",
+  "summary": "A short description of Transistor.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/patricklynch/Transistor",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "patricklynch": "pdlynch@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/patricklynch/Transistor.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "Transistor/Classes/**/*"
+}
